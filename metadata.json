@@ -1,0 +1,6 @@
+{
+  "name": "Cardápio Dinâmico Rotativo",
+  "description": "Mini App Mobile de 42 dias de refeições práticas e variadas com planejamento simples e comida de verdade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
